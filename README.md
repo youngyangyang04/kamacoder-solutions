@@ -10,6 +10,7 @@
 * [4.A+B问题IV](./problems/0004.A+B问题IV.md)
 * [5.A+B问题VII](./problems/0005.A+B问题VII.md)
 * [6.A+B问题VIII](./problems/0006.A+B问题VIII.md)
+* [7.平均绩点](./problems/0007.平均绩点.md)
 * [8.摆平积木](./problems/0008.摆平积木.md)
 * [9.奇怪的信](./problems/0009.奇怪的信.md)
 * [10.运营商活动](./problems/0010.运营商活动.md)
