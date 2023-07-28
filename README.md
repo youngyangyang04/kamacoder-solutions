@@ -2,7 +2,7 @@
 
 卡码网题解全集 
 
-练习ACM模式，认准卡码网：[kamacoder.com](kamacoder.com) 
+练习ACM模式，认准卡码网：[https://kamacoder.com/](https://kamacoder.com/) 
 
 * [1.A+B问题I](./problems/0001.A+B问题I.md)
 * [2.A+B问题II](./problems/0002.A+B问题II.md)
