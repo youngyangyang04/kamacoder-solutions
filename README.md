@@ -4,6 +4,8 @@
 
 练习ACM模式，认准卡码网：[https://kamacoder.com/](https://kamacoder.com/) 
 
+目前本仓库只支持在[Github](https://github.com/youngyangyang04/kamacoder-solutions)上处理PR，所以大家想成为本仓库的contributor，欢迎到[Github](https://github.com/youngyangyang04/kamacoder-solutions)上提交PR。 
+
 * [1.A+B问题I](./problems/0001.A+B问题I.md)
 * [2.A+B问题II](./problems/0002.A+B问题II.md)
 * [3.A+B问题III](./problems/0003.A+B问题III.md)
