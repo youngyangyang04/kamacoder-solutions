@@ -6,6 +6,18 @@
 
 目前本仓库只支持在[Github](https://github.com/youngyangyang04/kamacoder-solutions)上处理PR，所以大家想成为本仓库的contributor，欢迎到[Github](https://github.com/youngyangyang04/kamacoder-solutions)上提交PR。 
 
+## 卡码网刷题交流群
+
+为了让大家在卡码网上刷题有一个实时交流环境，同时 卡码网每周都举办模拟笔试，也为了让大家在模拟笔试结束后 可以相互交流。
+
+所以这里为大家组织刷题群，**可以扫码如下企业微信**，会拉你到卡码网刷题交流群。
+
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20230831094448.png" data-img="1" width="200" height="200"></img></div>
+
+如果已经有此企业微信的好友，就回复：卡码刷题，四个字就好。
+
+## 题解
+
 * [1.A+B问题I](./problems/0001.A+B问题I.md)
 * [2.A+B问题II](./problems/0002.A+B问题II.md)
 * [3.A+B问题III](./problems/0003.A+B问题III.md)
@@ -53,3 +65,4 @@
 * [45.虚拟棋盘对战](./problems/0045.虚拟棋盘对战.md)
 
 （持续更新中）
+
