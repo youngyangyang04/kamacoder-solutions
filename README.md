@@ -2,7 +2,7 @@
 
 卡码网题解全集 
 
-练习ACM模式，认准卡码网：[https://kamacoder.com/](https://kamacoder.com/) 
+练习ACM模式，模拟笔试，认准卡码网：[https://kamacoder.com/](https://kamacoder.com/) 
 
 目前本仓库只支持在[Github](https://github.com/youngyangyang04/kamacoder-solutions)上处理PR，所以大家想成为本仓库的contributor，欢迎到[Github](https://github.com/youngyangyang04/kamacoder-solutions)上提交PR。 
 
